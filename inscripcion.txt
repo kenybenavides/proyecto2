@@ -1,0 +1,6 @@
+el/la estudiante se llama keny
+cedula 12345
+se matriculo al codigo del curso 2
+al curso llamado ingles
+con valor de 10000
+con una duracion 30 horas
